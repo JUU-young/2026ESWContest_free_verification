@@ -81,6 +81,29 @@
 - [BHSig260 Hindi](https://www.kaggle.com/datasets/ishanikathuria/handwritten-signature-datasets)
 - [GPDS 1-150](https://www.kaggle.com/datasets/adeelajmal/gpds-1150)
 
+## 👥 Team
+
+#### 👑 박주영 — Team Leader
+- 서명 인식 알고리즘 구상
+- 서명 검증 알고리즘 구상
+- 전체 시스템 로직 설계
+
+#### 🧠 정도영 — AI / Verification
+- 서명 검증 알고리즘 구상
+- 하드웨어 조립
+
+#### 🔧 김민성 — Hardware
+- 하드웨어 설계 및 조립
+- 영상 제작 및 편집
+
+#### ⚙️ 강상현 — System / Documentation
+- 전체 시스템 로직 구상
+- 보고서 작성
+
+#### 📊 박경민 — Dataset / Research
+- 데이터셋 수집 및 취합
+- 서명 위조 관련 자료 조사
+
 ## 🛠 Tech Stack
 
 - **Hardware**  
