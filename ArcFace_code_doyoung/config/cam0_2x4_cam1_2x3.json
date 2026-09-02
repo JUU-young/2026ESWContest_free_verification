@@ -1,0 +1,46 @@
+{
+    "CAM0_K1": -0.1778,
+    "CAM0_K2": 0.0208,
+    "CAM0_K3": 0.0069,
+    "CAM0_CENTER_X": 1733,
+    "CAM0_CENTER_Y": 1136,
+    "CAM0_FOCAL": 2380,
+    "CAM0_ROTATION": 0,
+    "CAM1_K1": -0.1409,
+    "CAM1_K2": 0.0577,
+    "CAM1_K3": -0.0254,
+    "CAM1_CENTER_X": 1718,
+    "CAM1_CENTER_Y": 1277,
+    "CAM1_FOCAL": 2151,
+    "CAM1_ROTATION": -1,
+    "CAM0_X_BOUNDARIES": [
+        384,
+        1650,
+        2946
+    ],
+    "CAM0_Y_BOUNDARIES": [
+        147,
+        678,
+        1221,
+        1746,
+        2294
+    ],
+    "CAM1_X_BOUNDARIES": [
+        68,
+        1545,
+        3044
+    ],
+    "CAM1_Y_BOUNDARIES": [
+        475,
+        1096,
+        1718,
+        2345
+    ],
+    "CAM0_ROI_COLS": 2,
+    "CAM0_ROI_ROWS": 4,
+    "CAM1_ROI_COLS": 2,
+    "CAM1_ROI_ROWS": 3,
+    "CAM0_ROI_COUNT": 8,
+    "CAM1_ROI_COUNT": 6,
+    "version": 3
+}
