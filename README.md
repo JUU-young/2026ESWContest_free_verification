@@ -1,6 +1,6 @@
 # [프로젝트 개요 및 팀 소개]
 
-<img src="./images/img1.jpg" width="140">
+<img src="./images/img1.jpg" width="300">
 
 ## 📑 작품 개요
 ---
